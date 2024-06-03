@@ -1,0 +1,15 @@
+Next Tasks 
+1. Fungsi pilih_rekomendasi mengambil data dari SQL bukan CSV
+2. Halaman pilih_rekomendasi menyimpan riwayat
+3. Halaman riwayat_rekomendasi menampilkan riwayat per user
+4. Cari cara agar session state di halaman pilih_rekomendasi otomatis reset ketika berpindah halaman
+5. Insert, Update, Delete Data Warna oleh Admin
+6. Insert, Update, Delete Data User oleh Admin
+7. Perbarui nama kolom tabel di halaman daftar_rekomendasi dan riwayat_rekomendasi
+8. Perbarui Title dan Informasi pendukung tiap halaman
+
+Bimbingan
+1. Untuk kombinasi yang dihasilkan dari warna utama nya apakah selalu otomatis tergenerate sistem atau bisa upload sendiri?
+2. Untuk data warna utama ataupun kombinasi apakah memang perlu ada fungsi diubah? Karena data warna sudah sesuai dengan ahli
+3. Tanya pengujian
+4. Tanya tampilan gambar tiap warna dan kombinasi
